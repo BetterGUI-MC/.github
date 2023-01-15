@@ -48,7 +48,7 @@ If you contribute to this repository, you must:
 
 ## [Addons](https://github.com/BetterGUI-MC/Addon-List)
 
-Addon is a file that expand the features of the main plugin. If there is a new feature, it will likely be in an Addon.
+Addon is a file that expands the features of the main plugin. If there is a new feature, it will likely be in an Addon.
 
 If you have an idea and want to create an addon, make sure to check [AddonParent](https://github.com/BetterGUI-MC/AddonParent) & [ExampleAddon](https://github.com/BetterGUI-MC/ExampleAddon). These would help you skip the steps to setup your project by doing the dependency and shading part.
 
