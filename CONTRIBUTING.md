@@ -49,6 +49,8 @@ If you contribute to this repository, you must:
 
 Addon is a file that expand the features of the main plugin. If there is a new feature, it will likely be in an Addon.
 
+If you have an idea and want to create an addon, make sure to check [AddonParent](https://github.com/BetterGUI-MC/AddonParent) & [ExampleAddon](https://github.com/BetterGUI-MC/ExampleAddon). These would help you skip the steps to setup your project by doing the dependency and shading part.
+
 If you have made a new addon and want it to be known, you must:
 - Create a new Markdown file in the `addon` folder of the Wiki repository and link it to `SUMMARY.md` (check [Wiki](#wiki)).
 - Add the addon to the [Addon List](https://github.com/BetterGUI-MC/Addon-List/blob/master/addons.json) with the [appropriate format](https://github.com/BetterGUI-MC/Addon-List#format).
