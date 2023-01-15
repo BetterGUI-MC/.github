@@ -28,7 +28,7 @@ There is also no strict rule on how to contribute to the Wiki. However, if you c
 
 ## [BetterGUI](https://github.com/BetterGUI-MC/BetterGUI) ([Javadoc](https://bettergui-mc.github.io/BetterGUI))
 
-This is the main plugin. It serves as a barebone plugin that contains common functions that all servers need, which means a new feature is most likely rejected if it is requested directly to this repository. However, there are exceptions depending on how important that feature is. In this case, the code owners are the one who give the final decision whether this feature can be merged or should be in an addon.
+This is the main plugin. It serves as a barebone plugin that contains common functions that all servers need, which means a new feature is most likely rejected if it is requested directly to this repository. However, there are exceptions depending on how important that feature is. In this case, the code owners are the one who give the final decision whether the feature can be merged or should be in an addon.
 
 If you contribute to this repository, you must:
 - Comment the classes & methods you created in the Javadoc format.
