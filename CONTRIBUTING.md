@@ -33,6 +33,7 @@ This is the main plugin. It serves as a barebone plugin that contains common fun
 If you contribute to this repository, you must:
 - Comment the classes & methods you created in the Javadoc format.
 - Follow the code style specified in `.editorconfig`.
+  - Use [the Oracle code conventions](https://www.oracle.com/java/technologies/javase/codeconventions-contents.html)
   - Indent & Tab should be 2 spaces.
   - There should be blank lines between sections of the comment block.
   ```java
