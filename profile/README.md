@@ -1,4 +1,4 @@
-# BetterGUI [![Liberapay receiving](https://img.shields.io/liberapay/receives/BetterGUI-MC?logo=liberapay&style=for-the-badge)](https://liberapay.com/BetterGUI-MC/)
+# BetterGUI [![Liberapay receiving](https://img.shields.io/liberapay/receives/BetterGUI-MC?logo=liberapay)](https://liberapay.com/BetterGUI-MC/)
 An animated menu, a simple menu-designing tool, or just a better GUI plugin
 
 # Links
